@@ -11,4 +11,4 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 4. HTML - I know a rather intermidiate(ish) chunk of HTML(Although i use Python more)
 
 # My Socials
-1. https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
+1. YT - https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
