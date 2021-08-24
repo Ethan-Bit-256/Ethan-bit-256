@@ -11,6 +11,9 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 4. HTML - I know a rather intermidiate(ish) chunk of HTML(Although i use Python more)
 5. Pascal - I just started learning it!
 
+# The tools i use
+1. Git
+
 # My Socials
 1. YT - https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
 
