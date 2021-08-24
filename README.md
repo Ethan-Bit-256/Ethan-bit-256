@@ -12,3 +12,6 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # My Socials
 1. YT - https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
+
+# LandLog
+LandLog - https://github.com/Ethan-bit-256/LandLog
