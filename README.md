@@ -1,4 +1,4 @@
-# I-am-Ethan
+# I-am-Ethan ![E](https://user-images.githubusercontent.com/79723001/130706285-0fcd430a-3b6b-4249-910a-83601f80f80d.png)
 Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and this is my repository!
 
 # What I'm working on
