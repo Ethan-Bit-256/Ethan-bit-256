@@ -11,6 +11,8 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 4. HTML - I know a rather intermidiate(ish) chunk of HTML(Although i use Python more)
 5. Pascal - I just started learning it!
 6. LUA - The one and only reason to why i use LUA is because of a build system known as premake!(https://github.com/premake/premake-core)
+7. Consel - Now this is a language that I'M creating!!!
+
 
 # The tools i use
 1. Git
