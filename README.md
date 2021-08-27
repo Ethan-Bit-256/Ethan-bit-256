@@ -10,6 +10,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 3. C++ - My second favourite! I use it more than C tho...
 4. HTML - I know a rather intermidiate(ish) chunk of HTML(Although i use Python more)
 5. Pascal - I just started learning it!
+6. LUA - The one and only reason to why i use LUA is because of a build system known as premake!(https://github.com/premake/premake-core)
 
 # The tools i use
 1. Git
