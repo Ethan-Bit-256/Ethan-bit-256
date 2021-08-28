@@ -3,6 +3,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # What I'm working on
 1. LandLog - A simple C++ logging library
+2. Consel - A tiny programming language!
 
 # The languages i use
 1. Python - I'm pretty experienced with python, although I almost never use it!
@@ -22,3 +23,6 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # LandLog
 LandLog - https://github.com/Ethan-bit-256/LandLog
+
+# Consel
+Consel - https://github.com/Ethan-bit-256/Consel
