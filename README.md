@@ -16,6 +16,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # The tools i use
 1. Git
+2. Premake
 
 # My Socials
 1. YT - https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
