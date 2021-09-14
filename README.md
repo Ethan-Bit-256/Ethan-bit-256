@@ -26,4 +26,4 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 Consel - https://github.com/Ethan-bit-256/Consel
 
 # PyMake
-#PyMake - https://github.com/Ethan-bit-256/PyMake
+PyMake - https://github.com/Ethan-bit-256/PyMake
