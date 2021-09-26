@@ -7,7 +7,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # The languages i use
 1. Python - I'm pretty experienced with python!
-2. C - My favourite language! I use it alot!
+2. C - My favourite language!
 3. C++ - My second favourite! I use it more than C tho...
 4. HTML - I know a rather intermidiate(ish) chunk of HTML(Forgoten most of it! LOL)
 5. Pascal - I just started learning it!
