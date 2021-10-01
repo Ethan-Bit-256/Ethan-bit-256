@@ -20,7 +20,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 2. Premake
 
 # My Socials
-1. YT - https://www.youtube.com/channel/UCO3SbQ0izW4ZNeqJCEIbdYg
+1. Pinterest - https://www.pinterest.com/Ethan_Minja/
 
 # Consel
 Consel - https://github.com/Ethan-bit-256/Consel
