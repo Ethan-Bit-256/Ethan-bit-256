@@ -21,6 +21,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # My Socials
 1. Pinterest - https://www.pinterest.com/Ethan_Minja/
+2. Instagram - https://www.instagram.com/et_minja/
 
 # Consel
 Consel - https://github.com/Ethan-bit-256/Consel
