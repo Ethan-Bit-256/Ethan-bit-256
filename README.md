@@ -4,6 +4,7 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 # What I'm working on
 1. Consel - A tiny programming language!
 2. PyMake - A python game engine!
+3. Yuzu - A game engine in C++!
 
 # The languages i use
 1. Python - I'm pretty experienced with python!
@@ -27,3 +28,6 @@ Consel - https://github.com/Ethan-bit-256/Consel
 
 # PyMake
 PyMake - https://github.com/Ethan-bit-256/PyMake
+
+# Yuzu
+Yuzu- https://github.com/Sirtsu55/Yuzu
