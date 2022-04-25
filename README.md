@@ -2,7 +2,7 @@
 Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and this is my repository!
 
 # What I'm working on
-1. Bricks - A project file generator!
+1. Consel - A simple programming language!
 
 # The languages i use
 1. Python - I'm pretty experienced with python!
@@ -19,6 +19,6 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 2. Instagram - https://www.instagram.com/et_minja/
 3. YouTube - https://www.youtube.com/channel/UCnQhYWamxJSpkbHx7qAPibA
 
-# Bricks
+# Consel
 
-Bricks - https://github.com/ethan-bit-256/bricks
+Consel - https://github.com/ethan-bit-256/consel
