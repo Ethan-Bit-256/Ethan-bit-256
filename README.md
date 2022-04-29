@@ -2,7 +2,7 @@
 Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and this is my repository!
 
 # What I'm working on
-1. Consel - A simple programming language!
+1. ConEdit - A text editor(Releasing soon)!
 
 # The languages i use
 1. Python - I'm pretty experienced with python!
@@ -21,4 +21,4 @@ Hello! I am a thirteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # Consel
 
-Consel - https://github.com/ethan-bit-256/consel
+ConEdit(Coming soon!)
