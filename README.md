@@ -13,6 +13,7 @@ Hello! I am a fourteen year-old developer named Ethan Adam (or Ethan Minja) and 
 
 # The tools i use
 1. Premake
+2. VS2022
 
 # My Socials
 2. Instagram - https://www.instagram.com/eth.py/
