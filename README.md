@@ -1,5 +1,5 @@
 # Hi! I'm-Ethan! 
-Hello! I am a fourteen year-old developer named Ethan Adam (or Ethan Minja) and this is my repository!
+Hello! I am a fourteen year-old developer named Ethan Minja and this is my repository!
 
 # What I'm working on
 1. Secret
