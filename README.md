@@ -12,6 +12,7 @@ Hello! I am a 16 year-old developer named Ethan Minja and this is my profile
 
 # The tools i use
 1. VSCodium
+2. Premake
 
 # My Socials
 1. Instagram - https://www.instagram.com/eth.py/
