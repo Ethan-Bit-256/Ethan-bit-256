@@ -11,8 +11,7 @@ Hello! I am a 16 year-old developer named Ethan Minja and this is my profile
 4. LUA - The one and only reason to why i use LUA is because of a build system known as premake(https://github.com/premake/premake-core)
 
 # The tools i use
-1. Premake
-2. NotePad++
+1. VSCodium
 
 # My Socials
 1. Instagram - https://www.instagram.com/eth.py/
